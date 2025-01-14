@@ -1,9 +1,9 @@
-,id,Year,State,Crop_Type,Rainfall,Soil_Type,Irrigation_Area,Crop_Yield (kg/ha)
-0,1001,2021,Punjab,Wheat,556.9,Loamy,3500.7,5526.5254
-1,1002,2020,Punjab,Wheat,602.6,Loamy,3509.5,5339.2964
-2,1003,2019,Punjab,Rice,578.6,alluvial,3091.8,3961.883
-3,1004,2018,Punjab,Rice,598.3,alluvial,3057.9,3988.145
-4,1005,2017,Punjab,Rice,493.0,alluvial,3033.0,4020.4424
-5,1006,2014,Punjab,Bajra,384.9,Loamy,1.2,697.82324
-6,1007,2013,Punjab,Bajra,619.7,Loamy,3.81,938.911
-7,1008,2011,Punjab,Bajra,218.9,Loamy,2.5,1508.342
+id,Crop_Yield (kg/ha)
+1001,5760.8076
+1002,5466.529
+1003,3681.5935
+1004,3679.435
+1005,3871.891
+1006,830.36835
+1007,1145.5349
+1008,1890.2552
